@@ -34,3 +34,8 @@ else
 function flipCard(cardID) {
 	console.log("User flipped " + cards[cardId]);
 	cardsInPlay.push(cards[cardId].rank)
+}
+
+function createBoard
+	for (let i = 0; i < arrayName.length; i++) {
+}
